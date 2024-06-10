@@ -3,7 +3,9 @@
 **Objective**: Develop or research Real-Time Applications such as Rendering, Image processing, and Ray/Path Tracing by utilizing CPU (Multi-threading, AVX/NEON SIMD Intrinsic) and GPU (Graphics API, GPGPU).
 
 ## Projects
-![fig:H-ETC2](./assets/H-ETC2.png)      
+|H-ETC2 System Overview| Performance |
+|   :-:     |   :-:      |
+|![fig:H-ETC2](./assets/H-ETC2.png)      | ![fig:teaser_image](./assets/teaser_image.png) |
 ### **H-ETC2 : Design of a CPU-GPU Hybrid ETC2 Encoder**    
 #### Summary    
 - 개요: CPU와 GPU를 활용하는 Hybrid ETC2 Encoding Pipeline 구축
@@ -28,21 +30,23 @@
 
 #### Details
 - [Kim et al. 2023](https://www.mdpi.com/1424-8220/23/2/973) 을 기반으로 [Ernst and Greiner 2008](https://ieeexplore.ieee.org/document/4634618) 참고하여 MBVH를 적용
-- ARM NEON Intrinsic 을 이용한 Traversal & Intersection test (T & I) step 최적화 진행
+- ARM NEON Intrinsic 을 이용한 Ray Traversal & Intersection test (T & I) step 최적화 진행
 - Baseline 과 비교하여 20~30% 의 성능 향상  
 
 ---
 <br/>
 <br/>
 
-![fig:Auto](./assets/AUTODOG.jpeg)      
+|AUTODOG H/W|AUTODO S/W|
+|   :-:     |   :-:    |
+|![fig:Auto](./assets/AUTODOG.jpeg)| ![fig:Auto_flow](./assets/AUTODOG_flowchart.png) |   
 ### **AutoDog**
 #### Summary
 - 개요: Raspberry Pi4, RPLiDAR A1 그리고 CSI Camera 를 이용한 자율 보행 시스템 구축
 - 담당: LiDAR, Camera, Arduino와 통신 및 제어 등 전반적인 SW 개발 담당
 
 #### Details
-- C/C++, CMake, OpenCV (C++) 를 학습하기 위한 자행 보행 프로젝트 [(Demo)]()
+- C/C++, CMake, OpenCV (C++) 를 학습하기 위한 자행 보행 프로젝트 [(Demo Video)](https://youtu.be/saTzeXXPWuo)
 - Jetson Nano, Arduino, Raspberry Pi 3/4 등 여러 Embedded device 와 같이 자원이 제한된 환경에서의 개발 경험 습득
 
 ---
