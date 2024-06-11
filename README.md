@@ -17,6 +17,7 @@
 - 판단 된 *"Problematic Pixel Block"* 들은 GPU Encoder 의 input으로 전처리
 - 생성 된 input image는 GPU Encoder 에 의해 Encoding 된 후 최종 Texture Compression 을 마무리
 - Encoding Quality 측면 최대 20% 향상, Encoding Speed 측면 최대 100 ~ 1000% 향상
+- [page link](./H-ETC2.md)
 
 ---
 <br/> 
@@ -39,7 +40,7 @@
 
 |AUTODOG H/W|AUTODO S/W|
 |   :-:     |   :-:    |
-|![fig:Auto](./assets/AUTODOG.jpeg)| ![fig:Auto_flow](./assets/AUTODOG_flowchart.png) |   
+| ![fig:Auto](./assets/AUTODOG.jpeg) | ![fig:Auto_flow](./assets/AUTODOG_flowchart.png) |   
 ### **AutoDog**
 #### Summary
 - 개요: Raspberry Pi4, RPLiDAR A1 그리고 CSI Camera 를 이용한 자율 보행 시스템 구축
