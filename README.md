@@ -1,10 +1,10 @@
 # Hyeon-ki Lee
 Phone: +82 10-5124-7171  
 Email: gusrl3204@gmail.com  
-Github: https://github.com/gusrlLee
+Github: [https://github.com/gusrlLee](https://github.com/gusrlLee)
 
 ## Profile 
-**Keywords**: Ray/Path Tracing, Real-Time Rendering, Texture Compression, Image Processing   
+**Keywords**: Ray/Path Tracing, Texture Compression, Image Processing   
 **Objective**: Develop or research Real-Time Applications such as Rendering, Image processing, and Ray/Path Tracing by utilizing CPU (Multi-threading, AVX/NEON SIMD Intrinsic) and GPU (Graphics API, GPGPU).
 
 ## Education
@@ -24,7 +24,7 @@ Github: https://github.com/gusrlLee
 - [Advanced driver-assistance systems (ADAS) Program](./ADAS/ADAS.md) _( 2021.06 ~ 2022.02 )_
   - NVIDIA Jetson Nano 환경에서의 ADAS Program 개발 
   - Real-Time Application (30 FPS) 달성
-  - Collision Detection 기능과 각 Thread 제어 담당
+  - Birds Eye View Image를 이용한 Collision Detection 기능 및 각 Thread 제어 담당
 
 ## Publications
 1. **Hyeon-ki Lee** and Jae-Ho Nah, "H-ETC2: Design of a CPU-GPU Hybrid ETC2 Encoder", Computer Graphics Forum (Special Issue of Pacific Graphics 2023), 42(7), 2023, _[(Link)](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14969?af=R), [(Code)](https://github.com/gusrlLee/HETC2)_
