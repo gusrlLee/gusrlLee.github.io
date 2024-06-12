@@ -4,11 +4,10 @@
 
 ## Summary
 ![fig:ADAS](./images/ADAS.png)      
-- NVIDIA Jetson Nano 환경에서 ADAS program 개발 및 최적화 프로젝트
+- NVIDIA Jetson Series (Xavier, TX, Nano) 환경에서의 ADAS Program 개발 
 - Collision Detection, Camera 기능 및 각 Thread 제어 담당
 
 ## Result of Project 
-- NVIDIA Jetson Series (Xavier, TX, Nano) 환경에서의 ADAS Program 개발 
 - Xavier 기준 Real-Time Application (30 FPS) 달성
 - OpenCV 를 이용하여 Brid's Eye View Image 를 구현함으로써 3D 에 본격적 관심을 가지게 됨
 
