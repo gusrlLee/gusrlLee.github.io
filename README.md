@@ -19,7 +19,7 @@ Github: [https://github.com/gusrlLee](https://github.com/gusrlLee)
   - Ray Tracing의 Acceleration Structure로 사용되는 MBVH를 Sound Rendering 적용 연구
   - Baseline 대비 20 ~ 30%의 성능 개선
 - [AutoDog: Auto Driving System by using LiDAR and Camera _( 2021.11 ~ 2022.11 )_](./AutoDog/AutoDog.md) 
-  - RPLiDAR A1, CSI Camera를 이용한 자율 주행 시스템 개발 프로젝
+  - RPLiDAR A1, CSI Camera를 이용한 자율 주행 시스템 개발 프로젝트
   - LiDAR, Camera, Arduino와 통신 및 제어 등 전반적인 SW 개발 담당
 - [Advanced driver-assistance systems (ADAS) Program _( 2021.06 ~ 2022.02 )_](./ADAS/ADAS.md) 
   - NVIDIA Jetson Series (Xavier, TX, Nano) 환경에서의 ADAS Program 개발 
