@@ -31,5 +31,5 @@ Github: [https://github.com/gusrlLee](https://github.com/gusrlLee)
 2. **Hyeon-ki Lee**, Hyeju Kim, Dong-Yun Kim, Woo-Chan Park and Jae-Ho Nah, "Considerations for the Acceleration Structure of Sound Propagation on Embedded Devices: Kd-trees versus Multi Bounding Volume Hierarchies", Multimedia Tools and Applications, 2024 (Under review), _[(Demo)](https://www.youtube.com/watch?v=Jvjt7jii3Dc)_
 
 ## Experience
-- GPU Tech Labs @ Sanmyung University, Seoul, Korea _( 2022.04 ~ 2024.08 )_ 
-- Creative Contents Labs @ Sanmyung University, Seoul, Korea _( 2021.04 ~ 2022.03 )_
+- GPU Tech Labs @ Sangmyung University, Seoul, Korea _( 2022.04 ~ 2024.08 )_ 
+- Creative Contents Labs @ Sangmyung University, Seoul, Korea _( 2021.04 ~ 2022.03 )_
