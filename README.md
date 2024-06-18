@@ -16,7 +16,7 @@ Github: [https://github.com/gusrlLee](https://github.com/gusrlLee)
   - ETC2 codec을 위한 CPU-GPU Encoding Pipeline 기법 연구
   - Quality (최대 20% 향상)와 Encoding Speed (최대 10 ~ 1000x) 사이의 Trade-off 개선
 - [Multi-Bounding Volume Hierarchy (MBVH) for Sound Propagation _( 2023.08 ~ 2024.04 )_](./MBVH/MBVH.md) 
-  - Ray Tracing의 Acceleration Structure로 사용되는 MBVH를 Sound Rendering 적용 연구
+  - Ray Tracing의 Acceleration Structure로 사용되는 MBVH를 Sound Rendering에 적용한 연구
   - Baseline 대비 20 ~ 30%의 성능 개선
 - [AutoDog: Auto Driving System by using LiDAR and Camera _( 2021.11 ~ 2022.11 )_](./AutoDog/AutoDog.md) 
   - RPLiDAR A1, CSI Camera를 이용한 자율 주행 시스템 개발 프로젝트
@@ -31,5 +31,5 @@ Github: [https://github.com/gusrlLee](https://github.com/gusrlLee)
 2. **Hyeon-ki Lee**, Hyeju Kim, Dong-Yun Kim, Woo-Chan Park and Jae-Ho Nah, "Considerations for the Acceleration Structure of Sound Propagation on Embedded Devices: Kd-trees versus Multi Bounding Volume Hierarchies", Multimedia Tools and Applications, 2024 (Under review), _[(Demo)](https://www.youtube.com/watch?v=Jvjt7jii3Dc)_
 
 ## Experience
-- GPU Tech Labs @ Sangmyung University, Seoul, Korea _( 2022.04 ~ 2024.08 )_ 
-- Creative Contents Labs @ Sangmyung University, Seoul, Korea _( 2021.04 ~ 2022.03 )_
+- GPU Tech Lab @ Sangmyung University, Seoul, Korea _( 2022.04 ~ 2024.08 )_ 
+- Creative Contents Lab @ Sangmyung University, Seoul, Korea _( 2021.04 ~ 2022.03 )_
