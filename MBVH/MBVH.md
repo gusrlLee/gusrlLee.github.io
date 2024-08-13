@@ -13,7 +13,7 @@
 ![](./images/MBVH_ablation.png)
 - Baseline과 비교하여 20 ~ 30%의 성능 개선 
 - Bounding Box의 Overlap, Compactness 문제를 직면 --> [Split-BVH](https://dl.acm.org/doi/10.1145/1572769.1572771)을 이용한 후속 연구 필요
-- **Multimedia Tools and Applications Journal에 논문 투고 --> (Under Review)**
+- **Multimedia Tools and Applications Journal에 논문 투고 --> (Minor revision)**
 
 ## Project Review
 - 관심이 있던 Ray Tracing 의 Acceleration Structure로 사용되는 MBVH를 직접 구현하고 최적화 진행 경험 획득

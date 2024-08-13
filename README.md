@@ -28,7 +28,7 @@ Github: [https://github.com/gusrlLee](https://github.com/gusrlLee)
 
 ## Publications
 1. **Hyeon-ki Lee** and Jae-Ho Nah, "H-ETC2: Design of a CPU-GPU Hybrid ETC2 Encoder", Computer Graphics Forum (Special Issue of Pacific Graphics 2023), 42(7), 2023, _[(Link)](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14969?af=R), [(Code)](https://github.com/gusrlLee/HETC2)_
-2. **Hyeon-ki Lee**, Hyeju Kim, Dong-Yun Kim, Woo-Chan Park and Jae-Ho Nah, "Considerations for the Acceleration Structure of Sound Propagation on Embedded Devices: Kd-trees versus Multi Bounding Volume Hierarchies", Multimedia Tools and Applications, 2024 (Under review), _[(Demo)](https://www.youtube.com/watch?v=Jvjt7jii3Dc)_
+2. **Hyeon-ki Lee**, Hyeju Kim, Dong-Yun Kim, Woo-Chan Park and Jae-Ho Nah, "Considerations for the Acceleration Structure of Sound Propagation on Embedded Devices: Kd-trees versus Multi Bounding Volume Hierarchies", Multimedia Tools and Applications, 2024 (Minor revision), _[(Demo)](https://www.youtube.com/watch?v=Jvjt7jii3Dc)_
 
 ## Experience
 - GPU Tech Lab @ Sangmyung University, Seoul, Korea _( 2022.04 ~ 2024.08 )_ 
